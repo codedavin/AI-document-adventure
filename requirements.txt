@@ -1,0 +1,7 @@
+streamlit
+nltk
+PyPDF2
+langchain
+langchain-groq
+sentence-transformers
+chromadb
